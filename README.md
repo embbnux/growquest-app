@@ -4,7 +4,7 @@ Build better habits through gamification. Now featuring Live Activities, Audio N
 
 Install the app by [App Store](https://apps.apple.com/us/app/goodstudy/id6756180778).
 
-Feedback by creating a [issue](https://github.com/embbnux/goodstudy-app/issues/new). Do not pass sensitive data in the issue.
+Feedback by creating a [issue](https://github.com/embbnux/growquest-app/issues/new). Do not pass sensitive data in the issue.
 
 ## Description
 
