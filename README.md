@@ -32,6 +32,4 @@ GrowNest is your personal growth companion, combining rigorous planning with the
 
 Join challenges like "7-Day Early Rise" and watch your efforts turn into beautiful data trends and achievement badges.
 
-Terms of Use (EULA): 
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
