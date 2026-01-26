@@ -2,6 +2,7 @@
 layout: default
 title: GrowQuest App
 description: Build better habits through gamification. Now featuring Live Activities, Audio Notes, and Multi-User support. Your personal growth journey starts here!
+permalink: /
 ---
 
 Install the app by [App Store](https://apps.apple.com/app/6756180778).
