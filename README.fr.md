@@ -1,8 +1,8 @@
-# GrowQuest App
-
-[English](README.md) | [简体中文](README.zh.md) | [繁體中文](README.zh-Hant.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Español](README.es.md)
-
-Adoptez de meilleures habitudes grâce à la ludification. Inclut désormais les Activités en direct, les notes audio et le support multi-utilisateurs. Votre parcours de croissance personnelle commence ici !
+---
+layout: default
+title: GrowQuest App
+description: Adoptez de meilleures habitudes grâce à la ludification. Inclut désormais les Activités en direct, les notes audio et le support multi-utilisateurs. Votre parcours de croissance personnelle commence ici !
+---
 
 Installez l'application via l'[App Store](https://apps.apple.com/app/6756180778).
 

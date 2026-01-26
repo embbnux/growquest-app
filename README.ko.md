@@ -1,8 +1,8 @@
-# GrowQuest App
-
-[English](README.md) | [简体中文](README.zh.md) | [繁體中文](README.zh-Hant.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Español](README.es.md)
-
-게이미피케이션을 통해 더 나은 습관을 기르세요. 이제 실시간 현황(Live Activities), 오디오 노트 및 다중 사용자 지원을 제공합니다. 당신의 개인적인 성장 여정이 여기에서 시작됩니다!
+---
+layout: default
+title: GrowQuest App
+description: 게이미피케이션을 통해 더 나은 습관을 기르세요. 이제 실시간 현황(Live Activities), 오디오 노트 및 다중 사용자 지원을 제공합니다. 당신의 개인적인 성장 여정이 여기에서 시작됩니다!
+---
 
 [App Store](https://apps.apple.com/app/6756180778)에서 앱을 설치하세요.
 

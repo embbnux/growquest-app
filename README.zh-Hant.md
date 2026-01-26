@@ -1,8 +1,8 @@
-# GrowQuest App
-
-[English](README.md) | [简体中文](README.zh.md) | [繁體中文](README.zh-Hant.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Español](README.es.md)
-
-透過遊戲化養成更好的習慣。現已支援即時動態 (Live Activities)、語音筆記和多用戶支援。您的個人成長之旅從此開始！
+---
+layout: default
+title: GrowQuest App
+description: 透過遊戲化養成更好的習慣。現已支援即時動態 (Live Activities)、語音筆記和多用戶支援。您的個人成長之旅從此開始！
+---
 
 透過 [App Store](https://apps.apple.com/app/6756180778) 安裝應用程式。
 

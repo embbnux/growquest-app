@@ -1,8 +1,12 @@
+---
+layout: default
+title: GrowQuest App
+description: Construye mejores hábitos a través de la gamificación. Ahora con Actividades en Vivo, Notas de Audio y soporte Multiusuario. ¡Tu viaje de crecimiento personal comienza aquí!
+---
+
 # GrowQuest App
 
 [English](README.md) | [简体中文](README.zh.md) | [繁體中文](README.zh-Hant.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Português](README.pt.md) | [Español](README.es.md)
-
-Construye mejores hábitos a través de la gamificación. Ahora con Actividades en Vivo, Notas de Audio y soporte Multiusuario. ¡Tu viaje de crecimiento personal comienza aquí!
 
 Instala la aplicación desde la [App Store](https://apps.apple.com/app/6756180778).
 

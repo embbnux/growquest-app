@@ -1,3 +1,31 @@
 theme: jekyll-theme-cayman
 title: GrowQuest App
 description: Build better habits through gamification. Now featuring Live Activities, Audio Notes, and Multi-User support.
+languages:
+  - code: en
+    name: English
+    path: /
+  - code: zh
+    name: 简体中文
+    path: /README.zh.html
+  - code: zh-Hant
+    name: 繁體中文
+    path: /README.zh-Hant.html
+  - code: fr
+    name: Français
+    path: /README.fr.html
+  - code: de
+    name: Deutsch
+    path: /README.de.html
+  - code: ja
+    name: 日本語
+    path: /README.ja.html
+  - code: ko
+    name: 한국어
+    path: /README.ko.html
+  - code: pt
+    name: Português
+    path: /README.pt.html
+  - code: es
+    name: Español
+    path: /README.es.html
