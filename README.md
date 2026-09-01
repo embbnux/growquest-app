@@ -15,7 +15,7 @@ Feedback by creating a [issue](https://github.com/embbnux/growquest-app/issues/n
 
 **Build better habits, stay motivated, and grow together.**
 
-GrowNest is your personal growth companion, combining rigorous planning with the fun of gamification. Whether you are a student striving for better grades, a lifelong learner, or a parent guiding a child’s education, GrowNest provides the structure and motivation you need to succeed.
+GrowQuest is your personal growth companion, combining rigorous planning with the fun of gamification. Whether you are a student striving for better grades, a lifelong learner, or a parent guiding a child’s education, GrowQuest provides the structure and motivation you need to succeed.
 
 **KEY FEATURES**:
 

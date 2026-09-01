@@ -14,7 +14,7 @@ Envoyez vos commentaires en créant un [ticket](https://github.com/embbnux/growq
 
 **Adoptez de meilleures habitudes, restez motivé et grandissez ensemble.**
 
-GrowNest est votre compagnon de croissance personnelle, combinant une planification rigoureuse avec le plaisir de la ludification. Que vous soyez un étudiant visant de meilleures notes, un apprenant permanent ou un parent guidant l'éducation d'un enfant, GrowNest fournit la structure et la motivation dont vous avez besoin pour réussir.
+GrowQuest est votre compagnon de croissance personnelle, combinant une planification rigoureuse avec le plaisir de la ludification. Que vous soyez un étudiant visant de meilleures notes, un apprenant permanent ou un parent guidant l'éducation d'un enfant, GrowQuest fournit la structure et la motivation dont vous avez besoin pour réussir.
 
 **FONCTIONNALITÉS CLÉS** :
 
