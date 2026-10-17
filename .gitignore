@@ -1,0 +1,8 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+qa/
+# Local preview dependencies; production uses GitHub Pages' managed Jekyll.
+Gemfile.lock

@@ -1,0 +1,5 @@
+---
+layout: default
+---
+{% assign t = site.data.content[page.lang] %}
+<article class="document wrap"><a class="text-link" href="{{ t.home | relative_url }}">← {{ t.brand }}</a><div class="prose">{{ content }}</div></article>
